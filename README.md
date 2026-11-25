@@ -29,6 +29,7 @@ Normalmente você usa:
 [Pydantic Validation](https://pydantic.dev/docs/validation/latest/get-started/) </br>
 [FastAPI Cloud](https://fastapicloud.com/) </br>
 [The OpenAPI Specification](https://github.com/OAI/OpenAPI-Specification)
+[JSON Schema](https://json-schema.org/)
 
 ---
 
